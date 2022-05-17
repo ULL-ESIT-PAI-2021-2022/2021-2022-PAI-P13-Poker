@@ -277,7 +277,7 @@ cubrimiento de código de su proyecto.
 
 ## Referencias
 * [Modelo-vista-controlador](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [Poker](http://en.wikipedia.org/wiki/Poker), 
+* [Poker](http://en.wikipedia.org/wiki/Poker)
 * [ESLint](https://eslint.org/)
 * [JSDoc](https://jsdoc.app/)
 * [The Modern Javascript Tutorial](https://javascript.info)
