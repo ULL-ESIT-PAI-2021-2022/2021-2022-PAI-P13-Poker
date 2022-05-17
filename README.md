@@ -4,4 +4,6 @@ The HML5 Canvas API
 
 Events
 
-Chess
+The Model-View-Controller pattern
+
+Poker
