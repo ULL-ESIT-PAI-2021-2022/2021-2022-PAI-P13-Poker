@@ -43,19 +43,19 @@ como
   Code (VSC)
 
 ### Indicaciones de caracter general
-Previo a la implementación de cada clase, diseñe y desarrolle un conjunto de tests para probar el correcto
+* Previo a la implementación de cada clase, diseñe y desarrolle un conjunto de tests para probar el correcto
 funcionamiento de todos los métodos públicos.
 
-Utilice un fichero distinto para el código de cada una de las clases que intervienen en su programa.
+* Utilice un fichero distinto para el código de cada una de las clases que intervienen en su programa.
 
-Encapsule las clases en módulos que exporten la correspondiete clase hacia otros programas clientes que pudieran utilizarla.
+* Encapsule las clases en módulos que exporten la correspondiete clase hacia otros programas clientes que pudieran utilizarla.
 
-Configure para la práctica una página web que sirva de índice para mostrar la documentación generada por
+* Configure para la práctica una página web que sirva de índice para mostrar la documentación generada por
 JSDoc para todos los ejercicios de la práctica.
 
-Todo el código estará ubicado en el directorio `src` del proyecto. Use subdirectorios de éste si le resulta conveniente.
+* Todo el código estará ubicado en el directorio `src` del proyecto. Use subdirectorios de éste si le resulta conveniente.
 
-Configure un fichero `package.json` en el directorio raíz de su repositorio de modo que ejecutando 
+* Configure un fichero `package.json` en el directorio raíz de su repositorio de modo que ejecutando 
 `npm install` queden instaladas todas las dependencias de su proyecto.
 
 ### El patrón Modelo Vista Controlador
